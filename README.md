@@ -33,6 +33,7 @@ The `description` is the most important field — the agent reads it to decide w
 | Skill | What it does |
 |-------|--------------|
 | [`git`](git/SKILL.md) | Consistent git workflows — conventional commits, branch naming, stashing, pull requests, and safe history edits. Detailed guides live in [`git/references/`](git/references). |
+| [`laravel/sail/git-worktrees`](laravel/sail/git-worktrees/SKILL.md) | Set up an isolated Laravel Sail worktree (own Docker stack, offset ports, own `.env`) for working a feature branch, and clean it back up when done. |
 
 ## Usage
 
